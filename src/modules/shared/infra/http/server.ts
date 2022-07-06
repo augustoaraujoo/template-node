@@ -4,7 +4,7 @@ import 'express-async-errors'
 import { router } from './routes/index';
 import '@shared/container'
 
-console.log(`hello dsa thanks for using my cli`)
+console.log(`hello asd thanks for using my cli`)
 
 const app = express();
 
