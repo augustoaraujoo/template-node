@@ -25,8 +25,10 @@ Tabela de conteúdos
 
 # installation
     # Instale as dependências
+    # do you need install *express* !
+    $ npm install express
     $ npm i repo-express-example-node
-
+    $ npx reed g    
 # Structure
 
 ```
