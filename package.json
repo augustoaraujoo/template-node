@@ -7,7 +7,14 @@
     "generate": "npx reed g test",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "express",
+    "backend",
+    "web",
+    "rest",
+    "api",
+    "typescript"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
