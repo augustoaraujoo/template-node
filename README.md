@@ -14,9 +14,6 @@ How to use 💻
 <!--te-->
 
 # installation
-    # install all dependencies
-    # do you need install *express* !
-    $ npm install express
     $ npm i repo-express-example-node
     $ npx reed g   
 
